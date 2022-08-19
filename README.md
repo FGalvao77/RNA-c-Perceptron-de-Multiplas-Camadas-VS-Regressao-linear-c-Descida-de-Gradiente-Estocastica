@@ -9,4 +9,4 @@ Nesse _notebook_ iremos aplicar dois modelos de regressão:
 
 De início, iremos utilizar uma variável preditora para avaliar a capacidade de predizer dos modelos.
 
-E logo após, iremos utilizar outras variáveis de entrada para novamente aplicar os modelos e avaliá-los e também realizaremos uma técnica de otimização dos hiperparâmetros
+E logo após, iremos utilizar outras variáveis de entrada para novamente aplicar os modelos e avaliá-los e, por fim iremos utilizar uma técnica de otimização dos hiperparâmetros.
