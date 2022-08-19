@@ -1,0 +1,1 @@
+# RNA-c-Perceptron-de-Multiplas-Camadas-VS-Regressao-linear-c-Descida-de-Gradiente-Estocastica
